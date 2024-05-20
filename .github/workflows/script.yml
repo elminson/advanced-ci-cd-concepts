@@ -2,6 +2,7 @@ name: BASH Script
 
 on:
   workflow_dispatch:
+  #this value
 
 jobs:
 
